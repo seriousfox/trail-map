@@ -4,10 +4,10 @@ CSS
 Critical learning
 -----------------
 
-* [CSS3 for Web Designers](http://www.abookapart.com/products/css3-for-web-designers)
-* [Resposive Web Design](http://www.abookapart.com/products/responsive-web-design/)
-* [Opera CSS Basics](http://dev.opera.com/articles/view/27-css-basics/)
-* [Code Academy Web Track](http://www.codecademy.com/tracks/web)
+* Read [CSS3 for Web Designers](http://www.abookapart.com/products/css3-for-web-designers)
+* Read [Resposive Web Design](http://www.abookapart.com/products/responsive-web-design/)
+* Read through [Opera CSS Basics](http://dev.opera.com/articles/view/27-css-basics/)
+* Take the [Code Academy Web Track](http://www.codecademy.com/tracks/web)
 
 Validation
 ----------
